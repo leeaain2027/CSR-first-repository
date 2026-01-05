@@ -4,7 +4,7 @@
 - 주의: Flutter 프로젝트는 **프로젝트 폴더**를 업로드합니다.
 ---
 레포 구조:
-
+```
 AIFFEL_quest_eng
 ├── Computer_Vision
 │   ├── CV01
@@ -114,3 +114,4 @@ AIFFEL_quest_eng
 │       ├── .ipynb
 │       └── README.md
 └── README.md
+```
